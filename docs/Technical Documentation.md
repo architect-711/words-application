@@ -7,3 +7,5 @@ Written in Postman and located [here](https://documenter.getpostman.com/view/293
 - Spring Boot v3.3.3
 - Gradle
 - Java
+- Spring Security
+- PostgreSQL
