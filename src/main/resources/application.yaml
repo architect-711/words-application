@@ -1,5 +1,4 @@
 spring:
-#    profiles:
-#        default: dev
-    config:
-        import: classpath:/config/exception_text.yaml,classpath:/config/security.yaml
+    profiles:
+        default: dev
+        active: dev
