@@ -1,5 +1,4 @@
-test:
+api:
   security:
     key:
-      value: asdf 
       title: x-api-key
